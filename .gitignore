@@ -50,6 +50,9 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# Expo local state
+.expo/
+
 # Optional eslint cache
 .eslintcache
 
